@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Before this question I really thought they were literally the same thing. O.O BUT using context clues I'm able to make a hypothesis that git is a code sharing program while GitHub is more for code storage in a cloud.
 
-  Researched answer:
+  Researched answer: In short, git is a content tracker. It tracks changes made to a repository on a local system and uploads them to the server. It's also capable of version control; making sure the files on local are up to date with what's stored in GitHub. Github is the host for git. It stores the data that git is able to access.
 
 
 
