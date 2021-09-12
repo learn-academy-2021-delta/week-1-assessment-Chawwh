@@ -61,7 +61,7 @@ Research and define the following terms to the best of your ability.
 
 3. Jest: Looks to be a javascript framwork
 <!-- Eww its owned by facebook -->
-<!-- I'M KIDDING I USE INSTAGRAM AND OCULUS QUEST EVERYDAY -->
+<!-- I'M KIDDING I USE INSTAGRAM AND MY OCULUS QUEST EVERYDAY -->
 
 4. Objects: I think objects are variables with their own properties?
 <!-- I swear I'm researching these! -->
