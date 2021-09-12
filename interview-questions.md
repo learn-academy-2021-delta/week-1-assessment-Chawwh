@@ -17,7 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Aha! I feel like you're trying to trip me up here. So I know 'Boolean values' are either true or false. So with that knowledge I can say comparisons made with relational, equality, and logical operators will return a Boolean value.
 
-  Researched answer:
+  Researched answer: Comparison evaluations will return a Boolean value.
 
 
 
@@ -25,15 +25,15 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Index is the address of an array while value is more of what is stored at an address.
 
-  Researched answer:
-
+  Researched answer: Index is the reference to an elements value in an array. Value is used to define the variable held within indexes.
+<!--My google search history thought I wanted Index Funds for this question Lol-->
 
 
 4. What is a built-in method?
 
   Your answer: Built-in methods are functions available in javascript.
 
-  Researched answer:
+  Researched answer: Built in methods are functions already built into javascript for users to take advantage of.
 
 
 
@@ -41,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: So the roles in pair programming techniques are "driver" and "navigator". The "driver" is the hacker with the cool glasses behind the computer physically typing out the code while the "navigator" is the brains of the operation giving instructions through the earpiece.
 
-  Researched answer:
+  Researched answer: Pair programming is a development technique in which two programming contribute together on the same project. The pair is split into roles of driver and observer. The driver writes the code with the observer reviews each line for errors.
 
 
 
@@ -55,12 +55,17 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. Iteration:
+1. Iteration: Loops!!! I remember loops from trying to learn C++
 
-2. Higher Order Functions:
+2. Higher Order Functions: Functions that can take other functions as arguments
 
-3. Jest:
+3. Jest: Looks to be a javascript framwork
+<!-- Eww its owned by facebook -->
+<!-- I'M KIDDING I USE INSTAGRAM AND OCULUS QUEST EVERYDAY -->
 
-4. Objects:
+4. Objects: I think objects are variables with their own properties?
+<!-- I swear I'm researching these! -->
 
-5. Classes:
+5. Classes: Classes are used to create objects?!
+<!-- I like this. I'm very very excited for these!! -->
+

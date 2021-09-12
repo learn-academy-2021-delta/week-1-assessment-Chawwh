@@ -46,6 +46,7 @@ var myString2 = "delta"
 
 
 
+
 // --------------------4) Create a statement that evaluates two numbers and subtracts the smaller number from the larger number using the two sets of test variables provided below. Expected output: 15, 12
 
 var number1 = 42
